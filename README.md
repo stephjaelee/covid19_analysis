@@ -1,2 +1,2 @@
 # covid19_analysis
-Analyze covid impact by country
+Analyze COVID-19 impact by country
